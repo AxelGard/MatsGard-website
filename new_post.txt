@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="post">
+    <h2>Post head line </h2>
+    <hr>
+    <img src="img/gallery/image_name.png" alt="some img" class="gallery_img">
+    <br>
+    <br>
+    <p>some text about this img </p>
+  </div>
+</div>
+<br>
+<br>
